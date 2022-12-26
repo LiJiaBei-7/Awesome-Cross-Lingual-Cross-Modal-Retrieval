@@ -1,5 +1,5 @@
 # Awesome Cross-/Multi-Lingual Cross-Modal Retrieval 
-<br></br>
+
 
 ## Table of Contents
 * [Datasets](#datasets)
