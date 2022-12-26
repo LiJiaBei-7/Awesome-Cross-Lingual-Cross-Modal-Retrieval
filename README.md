@@ -18,7 +18,7 @@
 2.  **MSCOCO**-[English|Chinese|Japanese]: 
   - (English) `[ARXIV-15]` Microsoft COCO Captions: Data Collection and Evaluation Server. [[paper]](https://arxiv.org/abs/1504.00325) [[dataset]](https://cocodataset.org/#home)
   - (Chinese) `[TMM-19]` COCO-CN for Cross-Lingual Image Tagging, Captioning and Retrieval. [[paper]](https://arxiv.org/pdf/1805.08661.pdf) [[dataset]](https://github.com/li-xirong/coco-cn)
-  - (Japanese) `[ACL-17]` STAIR Captions:Constructing a Large-Scale Japanese Image Caption Dataset. [[paper]](https://arxiv.org/pdf/1705.00823v1.pdf) [[dataset]](STAIR Captions)
+  - (Japanese) `[ACL-17]` STAIR Captions:Constructing a Large-Scale Japanese Image Caption Dataset. [[paper]](https://arxiv.org/pdf/1705.00823v1.pdf) [[dataset]](https://github.com/STAIR-Lab-CIT/STAIR-captions)
 3. **CC3M**(mutli-lingual version) [[dataset]](https://github.com/zmykevin/UC2)
 ### Video-Text
 1. `[ICCV-19]` **VATEX**-[English|Chinese]: VATEX: A Large-Scale, High-Quality Multilingual Dataset for Video-and-Language Research. [[Paper]](https://arxiv.org/abs/1904.03493) [[dataset]](https://eric-xw.github.io/vatex-website/about.html)
