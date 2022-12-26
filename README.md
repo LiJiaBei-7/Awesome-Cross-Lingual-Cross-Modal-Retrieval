@@ -16,3 +16,8 @@
 
 ### 2019
 - `[Portaz et al. ARXIV]` Image search using multilingual texts: a cross-modal learning approach between image and text. [[paper]](https://arxiv.org/abs/1903.11299)
+
+
+## Acknowledgements
+
+Some of the above contents are borrowed from [awesome-video-text-retrieval](https://github.com/danieljf24/awesome-video-text-retrieval)
