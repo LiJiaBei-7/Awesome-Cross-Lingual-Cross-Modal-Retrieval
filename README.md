@@ -24,6 +24,8 @@
 1. `[ICCV-19]` **VATEX**-[English|Chinese]: VATEX: A Large-Scale, High-Quality Multilingual Dataset for Video-and-Language Research. [[Paper]](https://arxiv.org/abs/1904.03493) [[dataset]](https://eric-xw.github.io/vatex-website/about.html)
 2. `[ACM MM-22]` **MSRVTT-CN**(multi-lingual version of MSRVTT)-[English|Chinese]: Cross-Lingual Cross-Modal Retrieval with Noise-Robust Learning. [[paper]](https://arxiv.org/abs/2208.12526) [[dataset]](https://arxiv.org/abs/2208.12526)
 
+Note: This [repository](https://arxiv.org/abs/2208.12526) provides English caption and other language(Machine-translation version) caption of Multi30K, MSCOCO, VATEX, and MSRVTT-CN.
+
 <br></br>
 
 ## Papers and Code
