@@ -31,7 +31,7 @@ Note: This [repository](https://arxiv.org/abs/2208.12526) provides English capti
 ## Papers and Code
 ### 2022
 - `[Wang et al. ACM MM22]` Cross-Lingual Cross-Modal Retrieval with Noise-Robust Learning. [[paper]](https://arxiv.org/abs/2208.12526)  [[code]](https://github.com/HuiGuanLab/nrccr)
-- `[Zeng et al. ARXIV22]` Cross-View Language Modeling: Towards Unified Cross-Lingual Cross-Modal Pre-training. [[paper]](https://arxiv.org/abs/2206.00621)  [[code]](https://github.com/zengyan-97/CCLM)
+- `[Zeng et al. ICML22]` Cross-View Language Modeling: Towards Unified Cross-Lingual Cross-Modal Pre-training. [[paper]](https://arxiv.org/abs/2206.00621)  [[code]](https://github.com/zengyan-97/CCLM)
 
 ### 2021
 - `[Zhou et al. CVPR21]` UC2:Universal Cross-lingual Cross-modal Vision-and-Language Pre-training. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_UC2_Universal_Cross-Lingual_Cross-Modal_Vision-and-Language_Pre-Training_CVPR_2021_paper.pdf)  [[code]](https://github.com/zmykevin/UC2)
