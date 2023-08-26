@@ -47,6 +47,6 @@ Note: This [repository](https://arxiv.org/abs/2208.12526) provides English capti
 - `[Portaz et al. ARXIV]` Image search using multilingual texts: a cross-modal learning approach between image and text. [[paper]](https://arxiv.org/abs/1903.11299)
 
 ### Chinese Cross-modal Pre-training
-- `[Gu et al. NIPS]` Wukong: A 100 Million Large-scale Chinese Cross-modal Pre-training Benchmark. [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/a90b9a09a6ee43d6631cf42e225d73b4-Paper-Datasets_and_Benchmarks.pdf) [[code]](https://wukong-dataset.github.io/wukong-dataset/)
-- `[Xie et al. ARXIV]` ZERO and R2D2: A Large-scale Chinese Cross-modal Benchmark and a Vision-Language Framework. [[paper]](https://arxiv.org/pdf/2205.03860.pdf) [[code]](https://github.com/yuxie11/R2D2)
+- `[Gu et al. NIPS22]` Wukong: A 100 Million Large-scale Chinese Cross-modal Pre-training Benchmark. [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/a90b9a09a6ee43d6631cf42e225d73b4-Paper-Datasets_and_Benchmarks.pdf) [[code]](https://wukong-dataset.github.io/wukong-dataset/)
+- `[Xie et al. ARXIV22]` ZERO and R2D2: A Large-scale Chinese Cross-modal Benchmark and a Vision-Language Framework. [[paper]](https://arxiv.org/pdf/2205.03860.pdf) [[code]](https://github.com/yuxie11/R2D2)
 
