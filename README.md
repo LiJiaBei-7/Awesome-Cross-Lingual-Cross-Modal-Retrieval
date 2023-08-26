@@ -37,8 +37,8 @@ Note: This [repository](https://arxiv.org/abs/2208.12526) provides English capti
 ### 2021
 - `[Zhou et al. CVPR21]` UC2:Universal Cross-lingual Cross-modal Vision-and-Language Pre-training. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_UC2_Universal_Cross-Lingual_Cross-Modal_Vision-and-Language_Pre-Training_CVPR_2021_paper.pdf)  [[code]](https://github.com/zmykevin/UC2)
 - `[Ni et al. CVPR21]` M3P: Learning Universal Representations via Multitask Multilingual Multimodal Pre-training. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Ni_M3P_Learning_Universal_Representations_via_Multitask_Multilingual_Multimodal_Pre-Training_CVPR_2021_paper.pdf)  [[code]](https://github.com/microsoft/M3P)
-- `[Huang et al. NAACl21]` Multilingual Multimodal Pre-training for Zero-Shot Cross-Lingual Transfer of Vision-Language Models. [[paper]](https://arxiv.org/abs/2103.08849) 
-- `[Fei et al. NAACl21]` Cross-lingual Cross-modal Pretraining for Multimodal Retrieval. [[paper]](https://aclanthology.org/2021.naacl-main.285.pdf)
+- `[Huang et al. NAACL21]` Multilingual Multimodal Pre-training for Zero-Shot Cross-Lingual Transfer of Vision-Language Models. [[paper]](https://arxiv.org/abs/2103.08849) 
+- `[Fei et al. NAACL21]` Cross-lingual Cross-modal Pretraining for Multimodal Retrieval. [[paper]](https://aclanthology.org/2021.naacl-main.285.pdf)
 
 ### 2020
 - `[Aggarwal et al. ARXIV]` Towards Zero-shot Cross-lingual Image Retrieval. [[paper]](https://arxiv.org/abs/2012.05107)
