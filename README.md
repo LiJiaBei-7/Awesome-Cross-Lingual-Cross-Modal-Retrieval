@@ -20,6 +20,7 @@
   - (Chinese) `[TMM-19]` COCO-CN for Cross-Lingual Image Tagging, Captioning and Retrieval. [[paper]](https://arxiv.org/pdf/1805.08661.pdf) [[dataset]](https://github.com/li-xirong/coco-cn)
   - (Japanese) `[ACL-17]` STAIR Captions:Constructing a Large-Scale Japanese Image Caption Dataset. [[paper]](https://arxiv.org/pdf/1705.00823v1.pdf) [[dataset]](https://github.com/STAIR-Lab-CIT/STAIR-captions)
 3. **CC3M**(mutli-lingual version) [[dataset]](https://github.com/zmykevin/UC2)
+4. **Wukong**(Chinese) [[dataset]](https://wukong-dataset.github.io/wukong-dataset/)
 ### Video-Text
 1. `[ICCV-19]` **VATEX**-[English|Chinese]: VATEX: A Large-Scale, High-Quality Multilingual Dataset for Video-and-Language Research. [[Paper]](https://arxiv.org/abs/1904.03493) [[dataset]](https://eric-xw.github.io/vatex-website/about.html)
 2. `[ACM MM-22]` **MSRVTT-CN**(multi-lingual version of MSRVTT)-[English|Chinese]: Cross-Lingual Cross-Modal Retrieval with Noise-Robust Learning. [[paper]](https://arxiv.org/abs/2208.12526) [[dataset]](https://arxiv.org/abs/2208.12526)
@@ -45,4 +46,7 @@ Note: This [repository](https://arxiv.org/abs/2208.12526) provides English capti
 ### 2019
 - `[Portaz et al. ARXIV]` Image search using multilingual texts: a cross-modal learning approach between image and text. [[paper]](https://arxiv.org/abs/1903.11299)
 
+### Chinese Cross-modal Pre-training
+- `[Portaz et al. NIPS]` Wukong: A 100 Million Large-scale Chinese Cross-modal Pre-training Benchmark. [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/a90b9a09a6ee43d6631cf42e225d73b4-Paper-Datasets_and_Benchmarks.pdf) [[code]]((https://wukong-dataset.github.io/wukong-dataset/))
+- `[Xie et al. ARXIV]` ZERO and R2D2: A Large-scale Chinese Cross-modal Benchmark and a Vision-Language Framework. [[paper]](https://arxiv.org/pdf/2205.03860.pdf) [[code]](https://github.com/yuxie11/R2D2)
 
