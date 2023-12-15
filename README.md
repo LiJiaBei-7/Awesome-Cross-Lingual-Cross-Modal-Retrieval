@@ -33,7 +33,7 @@ Note: This [repository](https://arxiv.org/abs/2208.12526) provides English capti
 
 ## Papers and Code
 ### 2024
-- `[Wang et al. AAAI]` CL2CM: Improving Cross-Lingual Cross-Modal Retrieval via Cross-Lingual Knowledge Transfer. 
+- `[Wang et al. AAAI]` CL2CM: Improving Cross-Lingual Cross-Modal Retrieval via Cross-Lingual Knowledge Transfer. [[paper]](https://arxiv.org/pdf/2312.08984.pdf)
 ### 2023
 - `[Li et al. ACL]` Unifying Cross-Lingual and Cross-Modal Modeling Towards Weakly Supervised Multilingual Vision-Language Pre-training. [[paper]](https://aclanthology.org/2023.acl-long.327/)
 - `[Wang et al. ARXIV]` Dual-view Curricular Optimal Transport for Cross-lingual Cross-modal Retrieval. [[paper]](https://arxiv.org/pdf/2309.05451.pdf)
