@@ -35,6 +35,7 @@ Note: This [repository](https://arxiv.org/abs/2208.12526) provides English capti
 ### 2024
 - `[Wang et al. TIP]` Dual-view Curricular Optimal Transport for Cross-lingual Cross-modal Retrieval. [[paper]](https://arxiv.org/pdf/2309.05451.pdf)
 - `[Wang et al. AAAI]` CL2CM: Improving Cross-Lingual Cross-Modal Retrieval via Cross-Lingual Knowledge Transfer. [[paper]](https://arxiv.org/pdf/2312.08984.pdf)
+- - `[Wang et al. ACM MM]` Multimodal LLM Enhanced Cross-lingual Cross-modal Retrieval.
 - `[Cai et al. TKDE]` Cross-Lingual Cross-Modal Retrieval with Noise-Robust Fine-Tuning. [[paper]](https://ieeexplore.ieee.org/abstract/document/10530137/)
 ### 2023
 - `[Zeng et al. ACL]` Cross-View Language Modeling: Towards Unified Cross-Lingual Cross-Modal Pre-training. [[paper]](https://arxiv.org/abs/2206.00621)  [[code]](https://github.com/zengyan-97/CCLM)
